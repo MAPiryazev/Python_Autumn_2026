@@ -1,0 +1,10 @@
+[
+  {
+    "assignment_id": "lab-01",
+    "title": "Laboratory work 1",
+    "allowed_templates": [
+      "allowed()",
+      "def helper():"
+    ]
+  }
+]

@@ -1,0 +1,2 @@
+{"submission_id": "sub-001", "assignment_id": "lab-01", "student_id": "student-42", "submitted_at": "2026-10-25T12:00:00+03:00", "text_answer": "allowed()\nOwn explanation", "code": "def helper():\n    return 1", "language": "python", "ai_declaration": {"used": true, "details": "Used AI to draft a test outline."}}
+{"submission_id": "sub-002", "assignment_id": "lab-01", "student_id": "student-99", "submitted_at": "2026-10-25T12:30:00+03:00", "text_answer": "Independent answer", "code": "print('ok')", "language": "python", "ai_declaration": {"used": false, "details": null}}

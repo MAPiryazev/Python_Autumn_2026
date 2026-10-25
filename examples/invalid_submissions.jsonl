@@ -1,0 +1,3 @@
+{"submission_id": "sub-broken"
+{"submission_id": "sub-003", "assignment_id": "lab-01", "student_id": "", "submitted_at": "2026-10-25T12:30:00+03:00", "text_answer": "Empty student", "code": "", "language": "python", "ai_declaration": {"used": false, "details": null}}
+{"submission_id": "sub-004", "assignment_id": "lab-01", "student_id": "student-88", "submitted_at": "2026-10-25T12:30:00", "text_answer": "No timezone", "code": "", "language": "python", "ai_declaration": {"used": false, "details": null}}
