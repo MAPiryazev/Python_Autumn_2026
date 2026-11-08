@@ -63,6 +63,64 @@ class AnalysisReport:
 
 
 @dataclass(frozen=True, slots=True)
+class FeatureSet:
+    submission_id: str
+    assignment_id: str
+    suspicious_ngrams: frozenset[str]
+    template_ngrams: frozenset[str]
+    ngram_evidence: Mapping[str, Evidence] = field(
+        default_factory=lambda: MappingProxyType({})
+    )
+    metadata: Mapping[str, object] = field(
+        default_factory=lambda: MappingProxyType({})
+    )
+
+    def __post_init__(self) -> None:
+        object.__setattr__(
+            self,
+            "ngram_evidence",
+            MappingProxyType(dict(self.ngram_evidence)),
+        )
+        object.__setattr__(self, "metadata", MappingProxyType(dict(self.metadata)))
+
+
+@dataclass(frozen=True, slots=True)
+class SimilarityMatch:
+    submission_id: str
+    student_id: str
+    same_student: bool
+    similarity: float | None
+    intersection_size: int
+    union_size: int
+    review_required: bool
+    insufficient_data: bool
+    evidence: tuple[Evidence, ...] = ()
+    metadata: Mapping[str, object] = field(
+        default_factory=lambda: MappingProxyType({})
+    )
+
+    def __post_init__(self) -> None:
+        object.__setattr__(self, "metadata", MappingProxyType(dict(self.metadata)))
+
+
+@dataclass(frozen=True, slots=True)
+class ComparisonReport:
+    target_submission_id: str
+    assignment_id: str
+    analyzer_version: str
+    config_hash: str
+    strategy: str
+    matches: tuple[SimilarityMatch, ...]
+    rubric_feedback: str
+    metadata: Mapping[str, object] = field(
+        default_factory=lambda: MappingProxyType({})
+    )
+
+    def __post_init__(self) -> None:
+        object.__setattr__(self, "metadata", MappingProxyType(dict(self.metadata)))
+
+
+@dataclass(frozen=True, slots=True)
 class AcceptanceResult:
     status: str
     submission: Submission

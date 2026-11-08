@@ -9,14 +9,25 @@ from lab1_backend.analysis import (
     TemplateAnalyzer,
 )
 from lab1_backend.bootstrap import Application, build_application
+from lab1_backend.comparison import (
+    ComparisonConfig,
+    ComparisonService,
+    FeatureExtractor,
+    InMemoryComparisonCache,
+    NgramCandidateIndex,
+    jaccard,
+)
 from lab1_backend.domain import (
     AIDeclaration,
     AcceptanceResult,
     AnalysisReport,
     Assignment,
+    ComparisonReport,
     Evidence,
+    FeatureSet,
     ImportBatchResult,
     ImportIssue,
+    SimilarityMatch,
     Submission,
 )
 from lab1_backend.exceptions import (
@@ -44,17 +55,25 @@ __all__ = [
     "AnalyzerExecutionError",
     "Application",
     "Assignment",
+    "ComparisonConfig",
+    "ComparisonReport",
+    "ComparisonService",
     "ConfigurationError",
     "Evidence",
+    "FeatureExtractor",
+    "FeatureSet",
     "ImportBatchResult",
     "ImportIssue",
     "InMemoryAssignmentSource",
+    "InMemoryComparisonCache",
     "InMemorySubmissionRepository",
     "InMemorySubmissionSource",
     "JsonAssignmentSource",
     "JsonlSubmissionSource",
     "LabError",
     "LengthAnalyzer",
+    "NgramCandidateIndex",
+    "SimilarityMatch",
     "Submission",
     "SubmissionConflictError",
     "SubmissionFormatError",
@@ -64,5 +83,6 @@ __all__ = [
     "SubmissionSchemaError",
     "TemplateAnalyzer",
     "build_application",
+    "jaccard",
     "submission_from_payload",
 ]

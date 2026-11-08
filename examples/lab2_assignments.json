@@ -1,0 +1,23 @@
+[
+  {
+    "assignment_id": "lab2-python",
+    "title": "Lab 2 similarity dataset: Python functions",
+    "allowed_templates": [
+      "def solve():",
+      "    data = input().strip()",
+      "    # TODO: implement solution",
+      "    result = data",
+      "    print(result)",
+      "if __name__ == \"__main__\":",
+      "    solve()"
+    ]
+  },
+  {
+    "assignment_id": "lab2-other",
+    "title": "Different assignment used to verify filtering",
+    "allowed_templates": [
+      "def solve():",
+      "    solve()"
+    ]
+  }
+]

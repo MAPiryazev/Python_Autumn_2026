@@ -1,4 +1,35 @@
-.pytest_cache/
+# Python caches
 __pycache__/
 *.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Packaging/build artifacts
 *.egg-info/
+build/
+dist/
+
+# Coverage and test artifacts
+.coverage
+htmlcov/
+coverage.xml
+
+# Local environment/config files
+.env
+.env.*
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

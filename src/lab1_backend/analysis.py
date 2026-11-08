@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+from collections.abc import Iterator
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -26,6 +27,16 @@ class InMemorySubmissionSource:
 
     def list(self) -> tuple[Submission, ...]:
         return tuple(self._submissions.values())
+
+    def iter_submissions(self) -> Iterator[Submission]:
+        return iter(self._submissions.values())
+
+    def iter_by_assignment(self, assignment_id: str) -> Iterator[Submission]:
+        return (
+            item
+            for item in self._submissions.values()
+            if item.assignment_id == assignment_id
+        )
 
     def close(self) -> None:
         self.closed = True
@@ -54,6 +65,21 @@ class JsonlSubmissionSource:
 
     def list(self) -> tuple[Submission, ...]:
         return tuple(self._submissions.values())
+
+    def iter_submissions(self) -> Iterator[Submission]:
+        with self._path.open("r", encoding="utf-8") as handle:
+            for raw_line in handle:
+                if not raw_line.strip():
+                    continue
+                payload = SubmissionPayload.model_validate_json(raw_line)
+                yield submission_from_payload(payload)
+
+    def iter_by_assignment(self, assignment_id: str) -> Iterator[Submission]:
+        return (
+            item
+            for item in self.iter_submissions()
+            if item.assignment_id == assignment_id
+        )
 
     def close(self) -> None:
         if not self.closed:

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from collections.abc import Iterator
 from typing import Protocol, runtime_checkable
 
 from lab1_backend.domain import AnalysisReport, Assignment, Submission
@@ -26,6 +27,15 @@ class SubmissionSource(Protocol):
         ...
 
     def close(self) -> None:
+        ...
+
+
+@runtime_checkable
+class StreamingSubmissionSource(Protocol):
+    def iter_submissions(self) -> Iterator[Submission]:
+        ...
+
+    def iter_by_assignment(self, assignment_id: str) -> Iterator[Submission]:
         ...
 
 

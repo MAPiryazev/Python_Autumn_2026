@@ -1,0 +1,79 @@
+[
+  {
+    "left_submission_id": "lab2-sub-001",
+    "right_submission_id": "lab2-sub-002",
+    "review_required": true,
+    "relation": "identical_code",
+    "notes": "The executable code is identical and should be ranked as a high-similarity candidate."
+  },
+  {
+    "left_submission_id": "lab2-sub-001",
+    "right_submission_id": "lab2-sub-003",
+    "review_required": true,
+    "relation": "renamed_variables",
+    "notes": "The same recursive factorial structure is kept while variable names are changed."
+  },
+  {
+    "left_submission_id": "lab2-sub-001",
+    "right_submission_id": "lab2-sub-016",
+    "review_required": true,
+    "relation": "comments_added",
+    "notes": "Comments should be ignored, leaving the same suspicious executable code."
+  },
+  {
+    "left_submission_id": "lab2-sub-001",
+    "right_submission_id": "lab2-sub-004",
+    "review_required": false,
+    "relation": "independent_solution",
+    "notes": "Both solve factorial, but one is recursive and the other is iterative."
+  },
+  {
+    "left_submission_id": "lab2-sub-001",
+    "right_submission_id": "lab2-sub-015",
+    "review_required": false,
+    "relation": "different_assignment",
+    "notes": "Same-looking code from another assignment must be filtered out before scoring."
+  },
+  {
+    "left_submission_id": "lab2-sub-005",
+    "right_submission_id": "lab2-sub-006",
+    "review_required": false,
+    "relation": "template_only",
+    "notes": "The overlap is explained by allowed template lines and should not be suspicious."
+  },
+  {
+    "left_submission_id": "lab2-sub-007",
+    "right_submission_id": "lab2-sub-008",
+    "review_required": false,
+    "relation": "insufficient_data",
+    "notes": "Empty/comment-only submissions should produce an insufficient-data result."
+  },
+  {
+    "left_submission_id": "lab2-sub-010",
+    "right_submission_id": "lab2-sub-011",
+    "review_required": false,
+    "relation": "same_student_repeated_version",
+    "notes": "Repeated versions from one student are comparable but should be marked as same-student history, not plagiarism."
+  },
+  {
+    "left_submission_id": "lab2-sub-012",
+    "right_submission_id": "lab2-sub-013",
+    "review_required": true,
+    "relation": "renamed_variables_and_comments",
+    "notes": "The palindrome logic is structurally the same, with comments and renamed variables."
+  },
+  {
+    "left_submission_id": "lab2-sub-012",
+    "right_submission_id": "lab2-sub-014",
+    "review_required": false,
+    "relation": "independent_solution",
+    "notes": "Both solve palindrome checking but use different algorithms."
+  },
+  {
+    "left_submission_id": "lab2-sub-009",
+    "right_submission_id": "lab2-sub-005",
+    "review_required": false,
+    "relation": "syntax_error",
+    "notes": "Broken syntax must not crash the pipeline or become a false positive."
+  }
+]

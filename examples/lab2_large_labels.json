@@ -1,0 +1,2319 @@
+[
+  {
+    "left_submission_id": "large-0001",
+    "right_submission_id": "large-0002",
+    "review_required": true,
+    "relation": "factorial_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0001",
+    "right_submission_id": "large-0003",
+    "review_required": true,
+    "relation": "factorial_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0001",
+    "right_submission_id": "large-0004",
+    "review_required": true,
+    "relation": "factorial_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0001",
+    "right_submission_id": "large-0005",
+    "review_required": false,
+    "relation": "factorial_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0006",
+    "right_submission_id": "large-0007",
+    "review_required": false,
+    "relation": "factorial_same_student_repeated_version",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0008",
+    "right_submission_id": "large-0009",
+    "review_required": true,
+    "relation": "factorial_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0008",
+    "right_submission_id": "large-0010",
+    "review_required": true,
+    "relation": "factorial_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0008",
+    "right_submission_id": "large-0011",
+    "review_required": true,
+    "relation": "factorial_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0008",
+    "right_submission_id": "large-0012",
+    "review_required": false,
+    "relation": "factorial_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0013",
+    "right_submission_id": "large-0014",
+    "review_required": true,
+    "relation": "factorial_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0013",
+    "right_submission_id": "large-0015",
+    "review_required": true,
+    "relation": "factorial_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0013",
+    "right_submission_id": "large-0016",
+    "review_required": true,
+    "relation": "factorial_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0013",
+    "right_submission_id": "large-0017",
+    "review_required": false,
+    "relation": "factorial_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0018",
+    "right_submission_id": "large-0019",
+    "review_required": true,
+    "relation": "factorial_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0018",
+    "right_submission_id": "large-0020",
+    "review_required": true,
+    "relation": "factorial_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0018",
+    "right_submission_id": "large-0021",
+    "review_required": true,
+    "relation": "factorial_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0018",
+    "right_submission_id": "large-0022",
+    "review_required": false,
+    "relation": "factorial_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0023",
+    "right_submission_id": "large-0024",
+    "review_required": true,
+    "relation": "factorial_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0023",
+    "right_submission_id": "large-0025",
+    "review_required": true,
+    "relation": "factorial_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0023",
+    "right_submission_id": "large-0026",
+    "review_required": true,
+    "relation": "factorial_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0023",
+    "right_submission_id": "large-0027",
+    "review_required": false,
+    "relation": "factorial_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0028",
+    "right_submission_id": "large-0029",
+    "review_required": true,
+    "relation": "factorial_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0028",
+    "right_submission_id": "large-0030",
+    "review_required": true,
+    "relation": "factorial_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0028",
+    "right_submission_id": "large-0031",
+    "review_required": true,
+    "relation": "factorial_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0028",
+    "right_submission_id": "large-0032",
+    "review_required": false,
+    "relation": "factorial_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0033",
+    "right_submission_id": "large-0034",
+    "review_required": true,
+    "relation": "factorial_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0033",
+    "right_submission_id": "large-0035",
+    "review_required": true,
+    "relation": "factorial_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0033",
+    "right_submission_id": "large-0036",
+    "review_required": true,
+    "relation": "factorial_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0033",
+    "right_submission_id": "large-0037",
+    "review_required": false,
+    "relation": "factorial_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0038",
+    "right_submission_id": "large-0039",
+    "review_required": true,
+    "relation": "factorial_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0038",
+    "right_submission_id": "large-0040",
+    "review_required": true,
+    "relation": "factorial_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0038",
+    "right_submission_id": "large-0041",
+    "review_required": true,
+    "relation": "factorial_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0038",
+    "right_submission_id": "large-0042",
+    "review_required": false,
+    "relation": "factorial_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0043",
+    "right_submission_id": "large-0044",
+    "review_required": true,
+    "relation": "factorial_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0043",
+    "right_submission_id": "large-0045",
+    "review_required": true,
+    "relation": "factorial_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0043",
+    "right_submission_id": "large-0046",
+    "review_required": true,
+    "relation": "factorial_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0043",
+    "right_submission_id": "large-0047",
+    "review_required": false,
+    "relation": "factorial_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0048",
+    "right_submission_id": "large-0049",
+    "review_required": true,
+    "relation": "factorial_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0048",
+    "right_submission_id": "large-0050",
+    "review_required": true,
+    "relation": "factorial_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0048",
+    "right_submission_id": "large-0051",
+    "review_required": true,
+    "relation": "factorial_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0048",
+    "right_submission_id": "large-0052",
+    "review_required": false,
+    "relation": "factorial_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0053",
+    "right_submission_id": "large-0054",
+    "review_required": true,
+    "relation": "palindrome_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0053",
+    "right_submission_id": "large-0055",
+    "review_required": true,
+    "relation": "palindrome_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0053",
+    "right_submission_id": "large-0056",
+    "review_required": true,
+    "relation": "palindrome_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0053",
+    "right_submission_id": "large-0057",
+    "review_required": false,
+    "relation": "palindrome_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0058",
+    "right_submission_id": "large-0059",
+    "review_required": false,
+    "relation": "palindrome_same_student_repeated_version",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0060",
+    "right_submission_id": "large-0061",
+    "review_required": true,
+    "relation": "palindrome_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0060",
+    "right_submission_id": "large-0062",
+    "review_required": true,
+    "relation": "palindrome_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0060",
+    "right_submission_id": "large-0063",
+    "review_required": true,
+    "relation": "palindrome_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0060",
+    "right_submission_id": "large-0064",
+    "review_required": false,
+    "relation": "palindrome_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0065",
+    "right_submission_id": "large-0066",
+    "review_required": true,
+    "relation": "palindrome_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0065",
+    "right_submission_id": "large-0067",
+    "review_required": true,
+    "relation": "palindrome_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0065",
+    "right_submission_id": "large-0068",
+    "review_required": true,
+    "relation": "palindrome_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0065",
+    "right_submission_id": "large-0069",
+    "review_required": false,
+    "relation": "palindrome_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0070",
+    "right_submission_id": "large-0071",
+    "review_required": true,
+    "relation": "palindrome_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0070",
+    "right_submission_id": "large-0072",
+    "review_required": true,
+    "relation": "palindrome_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0070",
+    "right_submission_id": "large-0073",
+    "review_required": true,
+    "relation": "palindrome_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0070",
+    "right_submission_id": "large-0074",
+    "review_required": false,
+    "relation": "palindrome_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0075",
+    "right_submission_id": "large-0076",
+    "review_required": true,
+    "relation": "palindrome_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0075",
+    "right_submission_id": "large-0077",
+    "review_required": true,
+    "relation": "palindrome_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0075",
+    "right_submission_id": "large-0078",
+    "review_required": true,
+    "relation": "palindrome_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0075",
+    "right_submission_id": "large-0079",
+    "review_required": false,
+    "relation": "palindrome_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0080",
+    "right_submission_id": "large-0081",
+    "review_required": true,
+    "relation": "palindrome_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0080",
+    "right_submission_id": "large-0082",
+    "review_required": true,
+    "relation": "palindrome_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0080",
+    "right_submission_id": "large-0083",
+    "review_required": true,
+    "relation": "palindrome_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0080",
+    "right_submission_id": "large-0084",
+    "review_required": false,
+    "relation": "palindrome_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0085",
+    "right_submission_id": "large-0086",
+    "review_required": true,
+    "relation": "palindrome_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0085",
+    "right_submission_id": "large-0087",
+    "review_required": true,
+    "relation": "palindrome_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0085",
+    "right_submission_id": "large-0088",
+    "review_required": true,
+    "relation": "palindrome_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0085",
+    "right_submission_id": "large-0089",
+    "review_required": false,
+    "relation": "palindrome_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0090",
+    "right_submission_id": "large-0091",
+    "review_required": true,
+    "relation": "palindrome_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0090",
+    "right_submission_id": "large-0092",
+    "review_required": true,
+    "relation": "palindrome_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0090",
+    "right_submission_id": "large-0093",
+    "review_required": true,
+    "relation": "palindrome_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0090",
+    "right_submission_id": "large-0094",
+    "review_required": false,
+    "relation": "palindrome_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0095",
+    "right_submission_id": "large-0096",
+    "review_required": true,
+    "relation": "palindrome_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0095",
+    "right_submission_id": "large-0097",
+    "review_required": true,
+    "relation": "palindrome_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0095",
+    "right_submission_id": "large-0098",
+    "review_required": true,
+    "relation": "palindrome_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0095",
+    "right_submission_id": "large-0099",
+    "review_required": false,
+    "relation": "palindrome_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0100",
+    "right_submission_id": "large-0101",
+    "review_required": true,
+    "relation": "palindrome_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0100",
+    "right_submission_id": "large-0102",
+    "review_required": true,
+    "relation": "palindrome_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0100",
+    "right_submission_id": "large-0103",
+    "review_required": true,
+    "relation": "palindrome_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0100",
+    "right_submission_id": "large-0104",
+    "review_required": false,
+    "relation": "palindrome_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0105",
+    "right_submission_id": "large-0106",
+    "review_required": true,
+    "relation": "fibonacci_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0105",
+    "right_submission_id": "large-0107",
+    "review_required": true,
+    "relation": "fibonacci_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0105",
+    "right_submission_id": "large-0108",
+    "review_required": true,
+    "relation": "fibonacci_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0105",
+    "right_submission_id": "large-0109",
+    "review_required": false,
+    "relation": "fibonacci_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0110",
+    "right_submission_id": "large-0111",
+    "review_required": false,
+    "relation": "fibonacci_same_student_repeated_version",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0112",
+    "right_submission_id": "large-0113",
+    "review_required": true,
+    "relation": "fibonacci_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0112",
+    "right_submission_id": "large-0114",
+    "review_required": true,
+    "relation": "fibonacci_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0112",
+    "right_submission_id": "large-0115",
+    "review_required": true,
+    "relation": "fibonacci_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0112",
+    "right_submission_id": "large-0116",
+    "review_required": false,
+    "relation": "fibonacci_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0117",
+    "right_submission_id": "large-0118",
+    "review_required": true,
+    "relation": "fibonacci_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0117",
+    "right_submission_id": "large-0119",
+    "review_required": true,
+    "relation": "fibonacci_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0117",
+    "right_submission_id": "large-0120",
+    "review_required": true,
+    "relation": "fibonacci_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0117",
+    "right_submission_id": "large-0121",
+    "review_required": false,
+    "relation": "fibonacci_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0122",
+    "right_submission_id": "large-0123",
+    "review_required": true,
+    "relation": "fibonacci_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0122",
+    "right_submission_id": "large-0124",
+    "review_required": true,
+    "relation": "fibonacci_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0122",
+    "right_submission_id": "large-0125",
+    "review_required": true,
+    "relation": "fibonacci_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0122",
+    "right_submission_id": "large-0126",
+    "review_required": false,
+    "relation": "fibonacci_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0127",
+    "right_submission_id": "large-0128",
+    "review_required": true,
+    "relation": "fibonacci_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0127",
+    "right_submission_id": "large-0129",
+    "review_required": true,
+    "relation": "fibonacci_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0127",
+    "right_submission_id": "large-0130",
+    "review_required": true,
+    "relation": "fibonacci_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0127",
+    "right_submission_id": "large-0131",
+    "review_required": false,
+    "relation": "fibonacci_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0132",
+    "right_submission_id": "large-0133",
+    "review_required": true,
+    "relation": "fibonacci_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0132",
+    "right_submission_id": "large-0134",
+    "review_required": true,
+    "relation": "fibonacci_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0132",
+    "right_submission_id": "large-0135",
+    "review_required": true,
+    "relation": "fibonacci_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0132",
+    "right_submission_id": "large-0136",
+    "review_required": false,
+    "relation": "fibonacci_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0137",
+    "right_submission_id": "large-0138",
+    "review_required": true,
+    "relation": "fibonacci_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0137",
+    "right_submission_id": "large-0139",
+    "review_required": true,
+    "relation": "fibonacci_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0137",
+    "right_submission_id": "large-0140",
+    "review_required": true,
+    "relation": "fibonacci_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0137",
+    "right_submission_id": "large-0141",
+    "review_required": false,
+    "relation": "fibonacci_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0142",
+    "right_submission_id": "large-0143",
+    "review_required": true,
+    "relation": "fibonacci_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0142",
+    "right_submission_id": "large-0144",
+    "review_required": true,
+    "relation": "fibonacci_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0142",
+    "right_submission_id": "large-0145",
+    "review_required": true,
+    "relation": "fibonacci_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0142",
+    "right_submission_id": "large-0146",
+    "review_required": false,
+    "relation": "fibonacci_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0147",
+    "right_submission_id": "large-0148",
+    "review_required": true,
+    "relation": "fibonacci_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0147",
+    "right_submission_id": "large-0149",
+    "review_required": true,
+    "relation": "fibonacci_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0147",
+    "right_submission_id": "large-0150",
+    "review_required": true,
+    "relation": "fibonacci_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0147",
+    "right_submission_id": "large-0151",
+    "review_required": false,
+    "relation": "fibonacci_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0152",
+    "right_submission_id": "large-0153",
+    "review_required": true,
+    "relation": "fibonacci_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0152",
+    "right_submission_id": "large-0154",
+    "review_required": true,
+    "relation": "fibonacci_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0152",
+    "right_submission_id": "large-0155",
+    "review_required": true,
+    "relation": "fibonacci_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0152",
+    "right_submission_id": "large-0156",
+    "review_required": false,
+    "relation": "fibonacci_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0157",
+    "right_submission_id": "large-0158",
+    "review_required": true,
+    "relation": "prime_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0157",
+    "right_submission_id": "large-0159",
+    "review_required": true,
+    "relation": "prime_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0157",
+    "right_submission_id": "large-0160",
+    "review_required": true,
+    "relation": "prime_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0157",
+    "right_submission_id": "large-0161",
+    "review_required": false,
+    "relation": "prime_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0162",
+    "right_submission_id": "large-0163",
+    "review_required": false,
+    "relation": "prime_same_student_repeated_version",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0164",
+    "right_submission_id": "large-0165",
+    "review_required": true,
+    "relation": "prime_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0164",
+    "right_submission_id": "large-0166",
+    "review_required": true,
+    "relation": "prime_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0164",
+    "right_submission_id": "large-0167",
+    "review_required": true,
+    "relation": "prime_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0164",
+    "right_submission_id": "large-0168",
+    "review_required": false,
+    "relation": "prime_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0169",
+    "right_submission_id": "large-0170",
+    "review_required": true,
+    "relation": "prime_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0169",
+    "right_submission_id": "large-0171",
+    "review_required": true,
+    "relation": "prime_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0169",
+    "right_submission_id": "large-0172",
+    "review_required": true,
+    "relation": "prime_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0169",
+    "right_submission_id": "large-0173",
+    "review_required": false,
+    "relation": "prime_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0174",
+    "right_submission_id": "large-0175",
+    "review_required": true,
+    "relation": "prime_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0174",
+    "right_submission_id": "large-0176",
+    "review_required": true,
+    "relation": "prime_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0174",
+    "right_submission_id": "large-0177",
+    "review_required": true,
+    "relation": "prime_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0174",
+    "right_submission_id": "large-0178",
+    "review_required": false,
+    "relation": "prime_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0179",
+    "right_submission_id": "large-0180",
+    "review_required": true,
+    "relation": "prime_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0179",
+    "right_submission_id": "large-0181",
+    "review_required": true,
+    "relation": "prime_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0179",
+    "right_submission_id": "large-0182",
+    "review_required": true,
+    "relation": "prime_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0179",
+    "right_submission_id": "large-0183",
+    "review_required": false,
+    "relation": "prime_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0184",
+    "right_submission_id": "large-0185",
+    "review_required": true,
+    "relation": "prime_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0184",
+    "right_submission_id": "large-0186",
+    "review_required": true,
+    "relation": "prime_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0184",
+    "right_submission_id": "large-0187",
+    "review_required": true,
+    "relation": "prime_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0184",
+    "right_submission_id": "large-0188",
+    "review_required": false,
+    "relation": "prime_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0189",
+    "right_submission_id": "large-0190",
+    "review_required": true,
+    "relation": "prime_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0189",
+    "right_submission_id": "large-0191",
+    "review_required": true,
+    "relation": "prime_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0189",
+    "right_submission_id": "large-0192",
+    "review_required": true,
+    "relation": "prime_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0189",
+    "right_submission_id": "large-0193",
+    "review_required": false,
+    "relation": "prime_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0194",
+    "right_submission_id": "large-0195",
+    "review_required": true,
+    "relation": "prime_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0194",
+    "right_submission_id": "large-0196",
+    "review_required": true,
+    "relation": "prime_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0194",
+    "right_submission_id": "large-0197",
+    "review_required": true,
+    "relation": "prime_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0194",
+    "right_submission_id": "large-0198",
+    "review_required": false,
+    "relation": "prime_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0199",
+    "right_submission_id": "large-0200",
+    "review_required": true,
+    "relation": "prime_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0199",
+    "right_submission_id": "large-0201",
+    "review_required": true,
+    "relation": "prime_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0199",
+    "right_submission_id": "large-0202",
+    "review_required": true,
+    "relation": "prime_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0199",
+    "right_submission_id": "large-0203",
+    "review_required": false,
+    "relation": "prime_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0204",
+    "right_submission_id": "large-0205",
+    "review_required": true,
+    "relation": "prime_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0204",
+    "right_submission_id": "large-0206",
+    "review_required": true,
+    "relation": "prime_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0204",
+    "right_submission_id": "large-0207",
+    "review_required": true,
+    "relation": "prime_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0204",
+    "right_submission_id": "large-0208",
+    "review_required": false,
+    "relation": "prime_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0209",
+    "right_submission_id": "large-0210",
+    "review_required": true,
+    "relation": "vowels_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0209",
+    "right_submission_id": "large-0211",
+    "review_required": true,
+    "relation": "vowels_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0209",
+    "right_submission_id": "large-0212",
+    "review_required": true,
+    "relation": "vowels_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0209",
+    "right_submission_id": "large-0213",
+    "review_required": false,
+    "relation": "vowels_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0214",
+    "right_submission_id": "large-0215",
+    "review_required": false,
+    "relation": "vowels_same_student_repeated_version",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0216",
+    "right_submission_id": "large-0217",
+    "review_required": true,
+    "relation": "vowels_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0216",
+    "right_submission_id": "large-0218",
+    "review_required": true,
+    "relation": "vowels_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0216",
+    "right_submission_id": "large-0219",
+    "review_required": true,
+    "relation": "vowels_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0216",
+    "right_submission_id": "large-0220",
+    "review_required": false,
+    "relation": "vowels_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0221",
+    "right_submission_id": "large-0222",
+    "review_required": true,
+    "relation": "vowels_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0221",
+    "right_submission_id": "large-0223",
+    "review_required": true,
+    "relation": "vowels_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0221",
+    "right_submission_id": "large-0224",
+    "review_required": true,
+    "relation": "vowels_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0221",
+    "right_submission_id": "large-0225",
+    "review_required": false,
+    "relation": "vowels_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0226",
+    "right_submission_id": "large-0227",
+    "review_required": true,
+    "relation": "vowels_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0226",
+    "right_submission_id": "large-0228",
+    "review_required": true,
+    "relation": "vowels_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0226",
+    "right_submission_id": "large-0229",
+    "review_required": true,
+    "relation": "vowels_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0226",
+    "right_submission_id": "large-0230",
+    "review_required": false,
+    "relation": "vowels_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0231",
+    "right_submission_id": "large-0232",
+    "review_required": true,
+    "relation": "vowels_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0231",
+    "right_submission_id": "large-0233",
+    "review_required": true,
+    "relation": "vowels_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0231",
+    "right_submission_id": "large-0234",
+    "review_required": true,
+    "relation": "vowels_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0231",
+    "right_submission_id": "large-0235",
+    "review_required": false,
+    "relation": "vowels_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0236",
+    "right_submission_id": "large-0237",
+    "review_required": true,
+    "relation": "vowels_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0236",
+    "right_submission_id": "large-0238",
+    "review_required": true,
+    "relation": "vowels_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0236",
+    "right_submission_id": "large-0239",
+    "review_required": true,
+    "relation": "vowels_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0236",
+    "right_submission_id": "large-0240",
+    "review_required": false,
+    "relation": "vowels_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0241",
+    "right_submission_id": "large-0242",
+    "review_required": true,
+    "relation": "vowels_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0241",
+    "right_submission_id": "large-0243",
+    "review_required": true,
+    "relation": "vowels_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0241",
+    "right_submission_id": "large-0244",
+    "review_required": true,
+    "relation": "vowels_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0241",
+    "right_submission_id": "large-0245",
+    "review_required": false,
+    "relation": "vowels_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0246",
+    "right_submission_id": "large-0247",
+    "review_required": true,
+    "relation": "vowels_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0246",
+    "right_submission_id": "large-0248",
+    "review_required": true,
+    "relation": "vowels_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0246",
+    "right_submission_id": "large-0249",
+    "review_required": true,
+    "relation": "vowels_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0246",
+    "right_submission_id": "large-0250",
+    "review_required": false,
+    "relation": "vowels_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0251",
+    "right_submission_id": "large-0252",
+    "review_required": true,
+    "relation": "vowels_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0251",
+    "right_submission_id": "large-0253",
+    "review_required": true,
+    "relation": "vowels_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0251",
+    "right_submission_id": "large-0254",
+    "review_required": true,
+    "relation": "vowels_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0251",
+    "right_submission_id": "large-0255",
+    "review_required": false,
+    "relation": "vowels_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0256",
+    "right_submission_id": "large-0257",
+    "review_required": true,
+    "relation": "vowels_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0256",
+    "right_submission_id": "large-0258",
+    "review_required": true,
+    "relation": "vowels_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0256",
+    "right_submission_id": "large-0259",
+    "review_required": true,
+    "relation": "vowels_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0256",
+    "right_submission_id": "large-0260",
+    "review_required": false,
+    "relation": "vowels_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0261",
+    "right_submission_id": "large-0262",
+    "review_required": true,
+    "relation": "sort_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0261",
+    "right_submission_id": "large-0263",
+    "review_required": true,
+    "relation": "sort_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0261",
+    "right_submission_id": "large-0264",
+    "review_required": true,
+    "relation": "sort_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0261",
+    "right_submission_id": "large-0265",
+    "review_required": false,
+    "relation": "sort_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0266",
+    "right_submission_id": "large-0267",
+    "review_required": false,
+    "relation": "sort_same_student_repeated_version",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0268",
+    "right_submission_id": "large-0269",
+    "review_required": true,
+    "relation": "sort_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0268",
+    "right_submission_id": "large-0270",
+    "review_required": true,
+    "relation": "sort_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0268",
+    "right_submission_id": "large-0271",
+    "review_required": true,
+    "relation": "sort_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0268",
+    "right_submission_id": "large-0272",
+    "review_required": false,
+    "relation": "sort_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0273",
+    "right_submission_id": "large-0274",
+    "review_required": true,
+    "relation": "sort_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0273",
+    "right_submission_id": "large-0275",
+    "review_required": true,
+    "relation": "sort_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0273",
+    "right_submission_id": "large-0276",
+    "review_required": true,
+    "relation": "sort_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0273",
+    "right_submission_id": "large-0277",
+    "review_required": false,
+    "relation": "sort_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0278",
+    "right_submission_id": "large-0279",
+    "review_required": true,
+    "relation": "sort_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0278",
+    "right_submission_id": "large-0280",
+    "review_required": true,
+    "relation": "sort_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0278",
+    "right_submission_id": "large-0281",
+    "review_required": true,
+    "relation": "sort_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0278",
+    "right_submission_id": "large-0282",
+    "review_required": false,
+    "relation": "sort_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0283",
+    "right_submission_id": "large-0284",
+    "review_required": true,
+    "relation": "sort_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0283",
+    "right_submission_id": "large-0285",
+    "review_required": true,
+    "relation": "sort_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0283",
+    "right_submission_id": "large-0286",
+    "review_required": true,
+    "relation": "sort_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0283",
+    "right_submission_id": "large-0287",
+    "review_required": false,
+    "relation": "sort_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0288",
+    "right_submission_id": "large-0289",
+    "review_required": true,
+    "relation": "sort_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0288",
+    "right_submission_id": "large-0290",
+    "review_required": true,
+    "relation": "sort_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0288",
+    "right_submission_id": "large-0291",
+    "review_required": true,
+    "relation": "sort_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0288",
+    "right_submission_id": "large-0292",
+    "review_required": false,
+    "relation": "sort_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0293",
+    "right_submission_id": "large-0294",
+    "review_required": true,
+    "relation": "sort_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0293",
+    "right_submission_id": "large-0295",
+    "review_required": true,
+    "relation": "sort_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0293",
+    "right_submission_id": "large-0296",
+    "review_required": true,
+    "relation": "sort_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0293",
+    "right_submission_id": "large-0297",
+    "review_required": false,
+    "relation": "sort_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0298",
+    "right_submission_id": "large-0299",
+    "review_required": true,
+    "relation": "sort_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0298",
+    "right_submission_id": "large-0300",
+    "review_required": true,
+    "relation": "sort_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0298",
+    "right_submission_id": "large-0301",
+    "review_required": true,
+    "relation": "sort_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0298",
+    "right_submission_id": "large-0302",
+    "review_required": false,
+    "relation": "sort_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0303",
+    "right_submission_id": "large-0304",
+    "review_required": true,
+    "relation": "sort_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0303",
+    "right_submission_id": "large-0305",
+    "review_required": true,
+    "relation": "sort_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0303",
+    "right_submission_id": "large-0306",
+    "review_required": true,
+    "relation": "sort_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0303",
+    "right_submission_id": "large-0307",
+    "review_required": false,
+    "relation": "sort_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0308",
+    "right_submission_id": "large-0309",
+    "review_required": true,
+    "relation": "sort_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0308",
+    "right_submission_id": "large-0310",
+    "review_required": true,
+    "relation": "sort_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0308",
+    "right_submission_id": "large-0311",
+    "review_required": true,
+    "relation": "sort_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0308",
+    "right_submission_id": "large-0312",
+    "review_required": false,
+    "relation": "sort_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0313",
+    "right_submission_id": "large-0314",
+    "review_required": true,
+    "relation": "gcd_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0313",
+    "right_submission_id": "large-0315",
+    "review_required": true,
+    "relation": "gcd_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0313",
+    "right_submission_id": "large-0316",
+    "review_required": true,
+    "relation": "gcd_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0313",
+    "right_submission_id": "large-0317",
+    "review_required": false,
+    "relation": "gcd_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0318",
+    "right_submission_id": "large-0319",
+    "review_required": false,
+    "relation": "gcd_same_student_repeated_version",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0320",
+    "right_submission_id": "large-0321",
+    "review_required": true,
+    "relation": "gcd_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0320",
+    "right_submission_id": "large-0322",
+    "review_required": true,
+    "relation": "gcd_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0320",
+    "right_submission_id": "large-0323",
+    "review_required": true,
+    "relation": "gcd_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0320",
+    "right_submission_id": "large-0324",
+    "review_required": false,
+    "relation": "gcd_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0325",
+    "right_submission_id": "large-0326",
+    "review_required": true,
+    "relation": "gcd_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0325",
+    "right_submission_id": "large-0327",
+    "review_required": true,
+    "relation": "gcd_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0325",
+    "right_submission_id": "large-0328",
+    "review_required": true,
+    "relation": "gcd_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0325",
+    "right_submission_id": "large-0329",
+    "review_required": false,
+    "relation": "gcd_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0330",
+    "right_submission_id": "large-0331",
+    "review_required": true,
+    "relation": "gcd_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0330",
+    "right_submission_id": "large-0332",
+    "review_required": true,
+    "relation": "gcd_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0330",
+    "right_submission_id": "large-0333",
+    "review_required": true,
+    "relation": "gcd_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0330",
+    "right_submission_id": "large-0334",
+    "review_required": false,
+    "relation": "gcd_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0335",
+    "right_submission_id": "large-0336",
+    "review_required": true,
+    "relation": "gcd_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0335",
+    "right_submission_id": "large-0337",
+    "review_required": true,
+    "relation": "gcd_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0335",
+    "right_submission_id": "large-0338",
+    "review_required": true,
+    "relation": "gcd_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0335",
+    "right_submission_id": "large-0339",
+    "review_required": false,
+    "relation": "gcd_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0340",
+    "right_submission_id": "large-0341",
+    "review_required": true,
+    "relation": "gcd_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0340",
+    "right_submission_id": "large-0342",
+    "review_required": true,
+    "relation": "gcd_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0340",
+    "right_submission_id": "large-0343",
+    "review_required": true,
+    "relation": "gcd_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0340",
+    "right_submission_id": "large-0344",
+    "review_required": false,
+    "relation": "gcd_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0345",
+    "right_submission_id": "large-0346",
+    "review_required": true,
+    "relation": "gcd_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0345",
+    "right_submission_id": "large-0347",
+    "review_required": true,
+    "relation": "gcd_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0345",
+    "right_submission_id": "large-0348",
+    "review_required": true,
+    "relation": "gcd_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0345",
+    "right_submission_id": "large-0349",
+    "review_required": false,
+    "relation": "gcd_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0350",
+    "right_submission_id": "large-0351",
+    "review_required": true,
+    "relation": "gcd_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0350",
+    "right_submission_id": "large-0352",
+    "review_required": true,
+    "relation": "gcd_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0350",
+    "right_submission_id": "large-0353",
+    "review_required": true,
+    "relation": "gcd_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0350",
+    "right_submission_id": "large-0354",
+    "review_required": false,
+    "relation": "gcd_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0355",
+    "right_submission_id": "large-0356",
+    "review_required": true,
+    "relation": "gcd_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0355",
+    "right_submission_id": "large-0357",
+    "review_required": true,
+    "relation": "gcd_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0355",
+    "right_submission_id": "large-0358",
+    "review_required": true,
+    "relation": "gcd_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0355",
+    "right_submission_id": "large-0359",
+    "review_required": false,
+    "relation": "gcd_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0360",
+    "right_submission_id": "large-0361",
+    "review_required": true,
+    "relation": "gcd_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0360",
+    "right_submission_id": "large-0362",
+    "review_required": true,
+    "relation": "gcd_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0360",
+    "right_submission_id": "large-0363",
+    "review_required": true,
+    "relation": "gcd_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0360",
+    "right_submission_id": "large-0364",
+    "review_required": false,
+    "relation": "gcd_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0365",
+    "right_submission_id": "large-0366",
+    "review_required": true,
+    "relation": "brackets_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0365",
+    "right_submission_id": "large-0367",
+    "review_required": true,
+    "relation": "brackets_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0365",
+    "right_submission_id": "large-0368",
+    "review_required": true,
+    "relation": "brackets_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0365",
+    "right_submission_id": "large-0369",
+    "review_required": false,
+    "relation": "brackets_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0370",
+    "right_submission_id": "large-0371",
+    "review_required": false,
+    "relation": "brackets_same_student_repeated_version",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0372",
+    "right_submission_id": "large-0373",
+    "review_required": true,
+    "relation": "brackets_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0372",
+    "right_submission_id": "large-0374",
+    "review_required": true,
+    "relation": "brackets_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0372",
+    "right_submission_id": "large-0375",
+    "review_required": true,
+    "relation": "brackets_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0372",
+    "right_submission_id": "large-0376",
+    "review_required": false,
+    "relation": "brackets_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0377",
+    "right_submission_id": "large-0378",
+    "review_required": true,
+    "relation": "brackets_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0377",
+    "right_submission_id": "large-0379",
+    "review_required": true,
+    "relation": "brackets_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0377",
+    "right_submission_id": "large-0380",
+    "review_required": true,
+    "relation": "brackets_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0377",
+    "right_submission_id": "large-0381",
+    "review_required": false,
+    "relation": "brackets_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0382",
+    "right_submission_id": "large-0383",
+    "review_required": true,
+    "relation": "brackets_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0382",
+    "right_submission_id": "large-0384",
+    "review_required": true,
+    "relation": "brackets_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0382",
+    "right_submission_id": "large-0385",
+    "review_required": true,
+    "relation": "brackets_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0382",
+    "right_submission_id": "large-0386",
+    "review_required": false,
+    "relation": "brackets_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0387",
+    "right_submission_id": "large-0388",
+    "review_required": true,
+    "relation": "brackets_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0387",
+    "right_submission_id": "large-0389",
+    "review_required": true,
+    "relation": "brackets_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0387",
+    "right_submission_id": "large-0390",
+    "review_required": true,
+    "relation": "brackets_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0387",
+    "right_submission_id": "large-0391",
+    "review_required": false,
+    "relation": "brackets_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0392",
+    "right_submission_id": "large-0393",
+    "review_required": true,
+    "relation": "brackets_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0392",
+    "right_submission_id": "large-0394",
+    "review_required": true,
+    "relation": "brackets_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0392",
+    "right_submission_id": "large-0395",
+    "review_required": true,
+    "relation": "brackets_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0392",
+    "right_submission_id": "large-0396",
+    "review_required": false,
+    "relation": "brackets_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0397",
+    "right_submission_id": "large-0398",
+    "review_required": true,
+    "relation": "brackets_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0397",
+    "right_submission_id": "large-0399",
+    "review_required": true,
+    "relation": "brackets_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0397",
+    "right_submission_id": "large-0400",
+    "review_required": true,
+    "relation": "brackets_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0397",
+    "right_submission_id": "large-0401",
+    "review_required": false,
+    "relation": "brackets_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0402",
+    "right_submission_id": "large-0403",
+    "review_required": true,
+    "relation": "brackets_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0402",
+    "right_submission_id": "large-0404",
+    "review_required": true,
+    "relation": "brackets_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0402",
+    "right_submission_id": "large-0405",
+    "review_required": true,
+    "relation": "brackets_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0402",
+    "right_submission_id": "large-0406",
+    "review_required": false,
+    "relation": "brackets_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0407",
+    "right_submission_id": "large-0408",
+    "review_required": true,
+    "relation": "brackets_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0407",
+    "right_submission_id": "large-0409",
+    "review_required": true,
+    "relation": "brackets_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0407",
+    "right_submission_id": "large-0410",
+    "review_required": true,
+    "relation": "brackets_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0407",
+    "right_submission_id": "large-0411",
+    "review_required": false,
+    "relation": "brackets_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0412",
+    "right_submission_id": "large-0413",
+    "review_required": true,
+    "relation": "brackets_renamed",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0412",
+    "right_submission_id": "large-0414",
+    "review_required": true,
+    "relation": "brackets_comments",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0412",
+    "right_submission_id": "large-0415",
+    "review_required": true,
+    "relation": "brackets_whitespace",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0412",
+    "right_submission_id": "large-0416",
+    "review_required": false,
+    "relation": "brackets_independent_solution",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0417",
+    "right_submission_id": "large-0418",
+    "review_required": false,
+    "relation": "template_only",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0419",
+    "right_submission_id": "large-0420",
+    "review_required": false,
+    "relation": "insufficient_data",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  },
+  {
+    "left_submission_id": "large-0421",
+    "right_submission_id": "large-0417",
+    "review_required": false,
+    "relation": "syntax_error",
+    "notes": "Generated deterministic labeled pair for Lab 2 evaluation."
+  }
+]
